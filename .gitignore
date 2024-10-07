@@ -1,0 +1,13 @@
+# Ignorowanie folderów i plików PyCharm
+.idea/
+*.iml
+
+# Ignorowanie plików środowiska wirtualnego
+venv/
+.env
+
+# Ignorowanie plików dzienników
+*.log
+
+# Ignorowanie folderów tymczasowych
+__pycache__/
